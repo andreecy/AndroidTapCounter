@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TapCounter</string>
+    <string name="action_about">Tentang Tap Counter</string>
+    <string name="about_desc">
+        Tap Counter adalah aplikasi penghitung tap, klik atau sentuhan pada android, 
+        bisa dimanfaatkan sebagai alat penghitung digital, atau tasbih digital, dll.
+    </string>
+    <string name="by">Dipersembahkan oleh:</string>
+    <string name="company_name">Chiplabs</string>
+
+</resources>
